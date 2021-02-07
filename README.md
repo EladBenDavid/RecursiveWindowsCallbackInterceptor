@@ -1,6 +1,6 @@
 # Recursive WindowsCallback Interceptor
 Demonstrate recursive  windows interceptor issue 
-When you have more than one SDK that replaces the window call back, you can get into of issue when each SDK sets more than one interceptor.
+When you have more than one SDK that replaces the window call back, you can get into the issue when each SDK sets more than one interceptor.
 You can see it happened using the log cat.
 
 Step to simulate:
