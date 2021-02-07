@@ -23,11 +23,4 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
-    @Override
-    protected void onResume() {
-        super.onResume();
-        FirstLib.setInterceptor(this);
-        SecondLib.setInterceptor(this);
-    }
 }
