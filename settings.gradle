@@ -1,0 +1,4 @@
+rootProject.name = "WinInterceptorExample"
+include ':app'
+include ':firstLib'
+include ':Secondlib'
