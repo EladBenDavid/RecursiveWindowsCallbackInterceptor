@@ -10,3 +10,6 @@ Step to simulate:
 
 Each time you back to the activity you add new Interceptors to the activity.
 Since we have a few interceptors for each screen you handle a few times for each event
+
+# Stacktrace:
+![image info](recursive_interceptor.png)
